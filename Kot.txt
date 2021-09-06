@@ -1,4 +1,10 @@
+<<<<<<< Updated upstream
 Kotqwerty
 Kot123 777
 Kotqwerty
 Kot 567
+=======
+Kot123
+Kot123888
+Kot111
+>>>>>>> Stashed changes
