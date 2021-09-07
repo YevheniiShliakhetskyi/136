@@ -1,3 +1,29 @@
-лоролрорл
-рролртть
-тьитмм
+Integer
+String
+Array
+GetString
+
+{
+    "id": 108257,
+    "email": "krasov201595+4@gmail.com",
+    "name": "Roriana Giorgu",
+    "phone": null,
+    "country": "BB",
+    "timezone": "Europe/Kiev",
+    "language": "en",
+    "title": null,
+    "tier": "free",
+    "new_email": null,
+    "first_name": "Roriana",
+    "last_name": "Giorgu",
+    "email_verification_date": "2021-09-04 22:02:31",
+    "phone_verification_date": null,
+    "notify_by_mail": false,
+    "notify_by_phone": false,
+    "signup_date": "2021-09-04 21:55:50",
+    "tutorial_state": "skipped",
+    "pending_confirmation": false,
+    "default_account_id": 1,
+    "accepted_terms_date": "2021-09-05 12:25:13"
+}
+
