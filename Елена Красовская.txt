@@ -29,4 +29,4 @@ GetString
     "accepted_terms_date": "2021-09-05 12:25:13"
 }
 
-Have a good day))
+
