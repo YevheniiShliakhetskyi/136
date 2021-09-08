@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5&index=2
+
 Integer
 String
 Array
@@ -28,3 +29,4 @@ GetString
     "accepted_terms_date": "2021-09-05 12:25:13"
 }
 
+Have a good day))
