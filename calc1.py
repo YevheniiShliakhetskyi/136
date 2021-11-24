@@ -15,3 +15,5 @@ elif c == / and a == 0:
     print(Delenie na 0')
 elif c == / and b == 0:
     print('Delenie na 0')
+
+class point(self)
